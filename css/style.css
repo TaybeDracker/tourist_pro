@@ -17,7 +17,9 @@ header{
 }
 
 .text_logo{
-    margin-left: 55px;
+    margin-left: 40px;
+    font-size: 18px;
+    text-transform: uppercase;
 }
 
 .header_search{
