@@ -1,6 +1,7 @@
 body {
   margin: 0; 
   color: rgb(24, 22, 22);
+  font-family: Arial, Helvetica, sans-serif;
 }
 header{
     height:200px; 
@@ -34,7 +35,7 @@ header{
     font-size: 20px;
     }
 
-li {
+.crumb {
     list-style: none;
 }
  a{
@@ -48,4 +49,46 @@ li {
     color: #fff;
  }
 
+ .infographic {
+    width: 100%;
+   
+ }
+
+ ol {
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    font-size: 18px; margin: 0 auto;
+    padding-top: 100px;
+ }
+ .inf {
+    background: #c7abda;
+    padding: 30px;
+    border-radius: 10px;
+    width: 200px;
+ }
+
+.inf2 {
+    background: #daabcc;
+    padding: 30px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.inf3{
+    background: #abdace;
+    padding: 30px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.inf4{
+    background: #dad5ab;
+    padding: 30px;
+    border-radius: 10px;
+    width: 200px;
+}
+ .inf:hover {
+    transform: scale(1.2);
+ }
 
