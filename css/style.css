@@ -18,8 +18,8 @@ header{
 }
 
 .text_logo{
-    margin-left: 40px;
-    font-size: 18px;
+    margin-left: 35px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -62,14 +62,14 @@ header{
     padding-top: 100px;
  }
  .inf {
-    background: #c7abda;
+    background: #b487d3;
     padding: 30px;
     border-radius: 10px;
     width: 200px;
  }
 
 .inf2 {
-    background: #daabcc;
+    background: #e5a8a8;
     padding: 30px;
     border-radius: 10px;
     width: 200px;
